@@ -1,3 +1,6 @@
+//Author:Britta Kari
+//Website: manipulating data
+
 const menuList = [
     {
       id: 1,
